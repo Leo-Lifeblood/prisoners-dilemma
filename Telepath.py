@@ -1,4 +1,4 @@
-from Prisoner import Prisoner
+from .Prisoner import Prisoner
 
 """
 Telepath: a Prisoner who can read (a limited number of opponents') minds

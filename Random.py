@@ -1,4 +1,4 @@
-from Prisoner import Prisoner
+from .Prisoner import Prisoner
 from numpy import random
 
 """

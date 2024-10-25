@@ -1,4 +1,4 @@
-from Prisoner import Prisoner
+from .Prisoner import Prisoner
 import random
 
 class BahHumbug(Prisoner):

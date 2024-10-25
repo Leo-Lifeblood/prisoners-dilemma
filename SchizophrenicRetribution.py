@@ -1,6 +1,6 @@
 from random import random, choices
 
-from Prisoner import Prisoner
+from .Prisoner import Prisoner
 
 """
 SchizophrenicRetribution: an old Prisoner who usually copies their

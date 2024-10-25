@@ -1,4 +1,4 @@
-from Prisoner import Prisoner
+from .Prisoner import Prisoner
 import numpy as np
 
 class MasonPrisoner(Prisoner):
